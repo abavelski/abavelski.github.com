@@ -4,7 +4,7 @@ title: "AngularJS Authentication with NodeJS and Mongo"
 excerpt: "TDD for Javascript. Bla bla bla bla. Test1"
 description: ""
 category: 
-tags: [angularjs, nodejs, mongo]
+tags: [angularjs, nodejs, mongo, javascript]
 ---
 {% include JB/setup %}
 
